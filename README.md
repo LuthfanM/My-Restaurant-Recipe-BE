@@ -18,6 +18,7 @@ Tugas anda adalah membuat aplikasi tersebut dalam bentuk web sehingga staff dari
 ## ✨ Features
 - 🌈 Integrate with Next JS as It's Front end. The Repo is here : https://github.com/LuthfanM/My-Restaurant-Recipe
 -  Integrated with PostgreSQL as it's database.
+-  ERD Diagram My Restaurant (Simple) -> It is in file ERD Diagram My Restaurant.png
 
 ## Getting Started
 
